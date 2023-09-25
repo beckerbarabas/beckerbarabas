@@ -1,8 +1,8 @@
-### Oi eu sou o Frank 😉
+### Hey!
 
-- 💻 mergulhando no mundo da programação.
+
 ##
-Você pode me encontrar em:
+You can find me:
 <div>
      <a href="https://www.linkedin.com/in/franklinbarabas/" target="_blank"
       ><img
